@@ -1,5 +1,11 @@
 package com.example.a10119220latihan3;
 
+//Tanggal Pengerjaan: 25-04-2022
+//Deskripsi Pekerjaan: Latihan 3
+//NIM: 10119220
+//Nama: Moch. Wandika Yusgiar
+//Kelas: IF-6
+
 import androidx.appcompat.app.AppCompatActivity;
 import android.widget.Button;
 import static com.example.a10119220latihan3.DoneActivity.ID_EXTRA_MSG_EXIT;

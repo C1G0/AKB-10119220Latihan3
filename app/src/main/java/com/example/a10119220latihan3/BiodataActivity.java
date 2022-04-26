@@ -1,5 +1,11 @@
 package com.example.a10119220latihan3;
 
+//Tanggal Pengerjaan: 25-04-2022
+//Deskripsi Pekerjaan: Latihan 3
+//NIM: 10119220
+//Nama: Moch. Wandika Yusgiar
+//Kelas: IF-6
+
 import android.app.Dialog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
